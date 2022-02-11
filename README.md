@@ -1,7 +1,5 @@
 # lab
-maskdata >> 
-
-kaggle site
+maskdata >> kaggle site
 
 https://www.kaggle.com/andrewmvd/face-mask-detection
             / https://www.kaggle.com/niharika41298/withwithout-mask
